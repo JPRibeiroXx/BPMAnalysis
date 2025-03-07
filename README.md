@@ -1,6 +1,6 @@
 # BPM Analysis and Filtering Script
 
-This repository contains a Python script for analyzing peaks in cardiac beating data using filtering techniques. The script detects peaks in a time-series signal—representing cardiomyocyte contractions—by leveraging functions from the `scipy` library. It then applies noise reduction using the Savitzky–Golay filter to smooth the data, enhancing the accuracy of peak detection.
+This repository contains a Python script for analyzing peaks in cardiac beating data (extracted from Fiji) using filtering techniques. The script detects peaks in a time-series signal—representing cardiomyocyte contractions—by leveraging functions from the `scipy` library. It then applies noise reduction using the Savitzky–Golay filter to smooth the data, enhancing the accuracy of peak detection.
 
 ## Features
 
